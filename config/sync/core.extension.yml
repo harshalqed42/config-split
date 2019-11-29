@@ -1,6 +1,5 @@
 module:
   automated_cron: 0
-  big_pipe: 0
   block: 0
   block_content: 0
   breakpoint: 0
@@ -39,7 +38,6 @@ module:
   toolbar: 0
   tour: 0
   user: 0
-  views_ui: 0
   menu_link_content: 1
   views: 10
   standard: 1000
