@@ -1,0 +1,14 @@
+uuid: 9ea53a52-0d01-41c1-ac8c-b91601071c50
+name: Local
+mail: local@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
